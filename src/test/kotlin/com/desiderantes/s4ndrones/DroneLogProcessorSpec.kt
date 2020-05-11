@@ -12,7 +12,7 @@
  *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  *   GNU General Public License for more details.
  *   You should have received a copy of the GNU General Public License
- *   along with Skandium.  If not, see <http://www.gnu.org/licenses/>.
+ *   along with S4NDrones.  If not, see <http://www.gnu.org/licenses/>.
  */
 package com.desiderantes.s4ndrones
 

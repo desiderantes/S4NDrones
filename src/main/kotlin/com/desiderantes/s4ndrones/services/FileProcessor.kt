@@ -12,7 +12,7 @@
  *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  *   GNU General Public License for more details.
  *   You should have received a copy of the GNU General Public License
- *   along with Skandium.  If not, see <http://www.gnu.org/licenses/>.
+ *   along with S4NDrones.  If not, see <http://www.gnu.org/licenses/>.
  */
 package com.desiderantes.s4ndrones.services
 
@@ -28,7 +28,7 @@ object FileProcessor {
 
     /**
      * This process ignores missing files and does NOT try to consume more files than
-     * MAX_DRONES. A missing file means tha there´s no output for that drone.
+     * MAX_DRONES. A missing file means tha there's no output for that drone.
      * A file with invalid or empty deliveries will result on a report with no entries.
      *
      */
