@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.desiderantes"
-version = "1.0-SNAPSHOT"
+version = "1.0-RELEASE"
 
 val spekVersion = "2.0.9"
 
